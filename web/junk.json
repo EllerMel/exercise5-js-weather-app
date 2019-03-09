@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": -84.43,
+        "lat": 38.01
+    },
+    "weather": [
+        {
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 275.64,
+        "pressure": 1027,
+        "humidity": 51,
+        "temp_min": 274.26,
+        "temp_max": 276.48
+    },
+    "visibility": 16093,
+    "wind": {
+        "speed": 1.87,
+        "deg": 110.501
+    },
+    "rain": {
+        "1h": 0.25
+    },
+    "clouds": {
+        "all": 90
+    },
+    "dt": 1551989483,
+    "sys": {
+        "type": 1,
+        "id": 4539,
+        "message": 0.005,
+        "country": "US",
+        "sunrise": 1551959992,
+        "sunset": 1552001866
+    },
+    "id": 420013412,
+    "name": "Lexington",
+    "cod": 200
+}
